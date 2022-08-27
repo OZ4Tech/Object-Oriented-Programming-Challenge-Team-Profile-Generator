@@ -30,3 +30,11 @@ Please contact https://github.com/OZ4Tech with any questions
 ## Contact Information:
 -Email: [deaijaemungin@gmail.com]
 -GitHub: [https://github.com/OZ4Tech]
+
+## App Preview
+
+![Team-Profile-Generator_](https://user-images.githubusercontent.com/103383531/187008202-b2546378-8428-473a-bc56-8df6006ed737.gif)
+
+## Deployed App Link
+
+Click [HERE](https://oz4tech.github.io/Object-Oriented-Programming-Challenge-Team-Profile-Generator/) to see our deployed app.
